@@ -1,5 +1,5 @@
 {
-  "homepage": "https://{DevYasa}.github.io/{}",
+  "homepage": "https://DevYasa.github.io/codeLumina",
   "name": "coce_explainer_frontend",
   "version": "0.1.0",
   "private": true,
@@ -50,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1"
   }
 }
