@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bcodelumina%7D/static/css/main.309da07b.css",
+    "main.js": "/%7Bcodelumina%7D/static/js/main.0ecc5198.js",
+    "index.html": "/%7Bcodelumina%7D/index.html",
+    "main.309da07b.css.map": "/%7Bcodelumina%7D/static/css/main.309da07b.css.map",
+    "main.0ecc5198.js.map": "/%7Bcodelumina%7D/static/js/main.0ecc5198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.309da07b.css",
+    "static/js/main.0ecc5198.js"
+  ]
+}
