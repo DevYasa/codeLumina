@@ -1,0 +1,49 @@
+.logo-container {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-icon {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  margin-right: 10px;
+}
+
+.bulb {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(135deg, #8a2be2, #00ffff);
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(138, 43, 226, 0.7);
+}
+
+.filament {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 12px;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.logo-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.code {
+  font-family: 'Courier New', monospace;
+  color: #8a2be2;
+}
+
+.lumina {
+  background: linear-gradient(135deg, #8a2be2, #00ffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
