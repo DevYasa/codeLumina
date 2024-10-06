@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/codeLumina/static/css/main.309da07b.css",
-    "main.js": "/codeLumina/static/js/main.90504317.js",
+    "main.js": "/codeLumina/static/js/main.09e80f0d.js",
     "index.html": "/codeLumina/index.html",
     "main.309da07b.css.map": "/codeLumina/static/css/main.309da07b.css.map",
-    "main.90504317.js.map": "/codeLumina/static/js/main.90504317.js.map"
+    "main.09e80f0d.js.map": "/codeLumina/static/js/main.09e80f0d.js.map"
   },
   "entrypoints": [
     "static/css/main.309da07b.css",
-    "static/js/main.90504317.js"
+    "static/js/main.09e80f0d.js"
   ]
 }
