@@ -45,8 +45,7 @@ function App() {
           <div className="text-center">
             <Logo />
             <p className="text-gray-300 mt-2">AI-Powered Code Explainer</p>
-            <p className="text-sm text-gray-400 mt-1">Created by : DevYasa</p>
-          </div>
+            <p className="text-sm text-gray-400 mt-1">Created by : DevYasa</p>          </div>
 
           <div className="flex space-x-4">
             <select
